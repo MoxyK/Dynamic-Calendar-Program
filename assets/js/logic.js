@@ -16,7 +16,7 @@ $(document).ready(function(){
 
         setTimeout(function(){
             $('.notification').removeClass('show');
-        })
+        }, 3500);
 
     })
         // Past/Present/Future function

@@ -77,6 +77,9 @@ textarea {
 }
 
 .show {
-  display: block;
+  display: flex;
+  justify-content: center;
+  position: fixed;
+  z-index: 100;
 }
 
